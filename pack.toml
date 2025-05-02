@@ -1,0 +1,12 @@
+name = "Minimalbigglobe"
+version = "1.0.0"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "0239a9edb431a1259b352cbc4cf75049b93d745e7f6bfdf00fa86457b3962537"
+
+[versions]
+fabric = "0.16.14"
+minecraft = "1.21.5"

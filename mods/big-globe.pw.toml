@@ -1,0 +1,13 @@
+name = "Big Globe"
+filename = "Big Globe-4.12.1-MC1.21.5.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/xsng1aJf/versions/ToirPKLH/Big%20Globe-4.12.1-MC1.21.5.jar"
+hash-format = "sha512"
+hash = "d5eed2314f7f066a0bdc0bef0070470ba343a7226a4fed61dc7b3b68b940137922491e562d14e973901b47efc3a679de2fb35c1493ef62b53063b7da01e46064"
+
+[update]
+[update.modrinth]
+mod-id = "xsng1aJf"
+version = "ToirPKLH"
